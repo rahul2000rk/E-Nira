@@ -1,4 +1,5 @@
 Analysis of the Game Rules and Strategies
+
 Game Overview
 The game, titled "E-Nira Game", is a two-player game implemented using Pygame. It appears to be a variant of Three Men's Morris, where players take turns placing and moving pieces on a 3x3 board until one achieves a winning combination.
 
